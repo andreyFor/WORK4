@@ -16,7 +16,7 @@ public class WORK4 {
 
         // Задание номер 2
 
-        int friday = 1;
+        int friday;
         for (friday = 1; friday <= 31; friday = friday + 7) {
             System.out.println("Сегодня пятница, " + friday + "-е число. Необходимо подготовить отчет.");
         }
@@ -25,13 +25,13 @@ public class WORK4 {
         // Задание номер 3
 
         int currentYear = 2022;
-        int yearOfComet = 0;
+        int yearOfComet;
         for (yearOfComet = currentYear - 200; yearOfComet <= 2122; yearOfComet = yearOfComet + 1 ) {
             if (yearOfComet % 79 == 0) {
                 System.out.println(yearOfComet);
             }
         }
-        // Задания выполнены
+        // Задания выполнены !!!
 
 
 
