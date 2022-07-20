@@ -31,7 +31,7 @@ public class WORK4 {
                 System.out.println(yearOfComet);
             }
         }
-        // Задания выполнены !!!
+        // Задания выполнены !!!!!
 
 
 
